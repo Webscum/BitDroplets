@@ -2,9 +2,9 @@
 
 ## Parts info
   ### Screen:
-  [Adafruit] https://www.adafruit.com/product/326
-  [Datasheet] https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf
+  [https://www.adafruit.com/product/326](Adafruit)
+  [https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf](Datasheet)
     
   ### Rotary Encoder
-  [Adafruit] https://www.adafruit.com/product/377
-  [Datasheet] https://cdn-shop.adafruit.com/datasheets/pec11.pdf
+  [https://www.adafruit.com/product/377](Adafruit) 
+  [https://cdn-shop.adafruit.com/datasheets/pec11.pdf](Datasheet)
